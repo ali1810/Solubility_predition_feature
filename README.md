@@ -1,4 +1,4 @@
-# Solubility_predition_feature
+# Solubility_prediction_feature
 
 
 In this notebook I have make used of RDkit descriptor to extract the 11 feature from smiles to predict the solubility of the molecule.  
